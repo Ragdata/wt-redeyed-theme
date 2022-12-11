@@ -10,6 +10,8 @@ https://ragdata.dev
 The RedEyed Theme for WinterCMS is a full-featured theme which also includes the following plugins:
 
 ## Requirements
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRagdata%2Fwt-redeyed-theme.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRagdata%2Fwt-redeyed-theme?ref=badge_shield)
+
 
 - WinterCMS v1.2.1+
 - NodeJS 12 or above (if you're going to style the theme yourself)
@@ -50,3 +52,7 @@ This project is proudly brought to you directly from the desk of
 [winterdocs]: https://wintercms.com/docs
 [wintergit]: https://github.com/wintercms/winter
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRagdata%2Fwt-redeyed-theme.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FRagdata%2Fwt-redeyed-theme?ref=badge_large)
